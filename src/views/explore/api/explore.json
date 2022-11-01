@@ -1,0 +1,81 @@
+[
+  {
+    "id": 0,
+    "type": "nft",
+    "buyers": [{ "thumb": "https://pbs.twimg.com/profile_images/651797520658489345/BVYPZWH7_bigger.jpg" }, { "thumb": "https://pbs.twimg.com/profile_images/651797520658489345/BVYPZWH7_bigger.jpg" }],
+    "nftThumb": "https://lh3.googleusercontent.com/Temghd6YxpZ-MVio3rCtuf3s4Tl31Rkp2suVAg3Q-tX2oU_GQOkXfZvvNU5pvF4k613alcZ-VmleOfG879X2boCMB2KnfK2Z5KZp=w600",
+    "nftName": "Smirc 109",
+    "cryptoIcon": "https://w7.pngwing.com/pngs/989/154/png-transparent-ethereum-cryptocurrency-blockchain-bitcoin-logo-mining-angle-triangle-logo.png",
+    "crypto": "ethereum",
+    "nftmarket": "OpenSea",
+    "nftmarketIcon": "https://solanart.io/logo.png",
+    "isLike": true,
+    "likeAmount": 999,
+    "price": 65
+  },
+  {
+    "id": 1,
+    "type": "nft",
+    "buyers": [{ "thumb": "https://pbs.twimg.com/profile_images/651797520658489345/BVYPZWH7_bigger.jpg" }, { "thumb": "https://pbs.twimg.com/profile_images/651797520658489345/BVYPZWH7_bigger.jpg" }],
+    "nftThumb": "https://lh3.googleusercontent.com/Temghd6YxpZ-MVio3rCtuf3s4Tl31Rkp2suVAg3Q-tX2oU_GQOkXfZvvNU5pvF4k613alcZ-VmleOfG879X2boCMB2KnfK2Z5KZp=w600",
+    "nftName": "Smirc 109",
+    "cryptoIcon": "https://w7.pngwing.com/pngs/989/154/png-transparent-ethereum-cryptocurrency-blockchain-bitcoin-logo-mining-angle-triangle-logo.png",
+    "crypto": "ethereum",
+    "nftmarket": "OpenSea",
+    "nftmarketIcon": "https://solanart.io/logo.png",
+    "isLike": false,
+    "likeAmount": 999,
+    "price": 5
+  },
+  {
+    "id": 3,
+    "type": "nft",
+    "buyers": [{ "thumb": "https://pbs.twimg.com/profile_images/651797520658489345/BVYPZWH7_bigger.jpg" }, { "thumb": "https://pbs.twimg.com/profile_images/651797520658489345/BVYPZWH7_bigger.jpg" }],
+    "nftThumb": "https://lh3.googleusercontent.com/Temghd6YxpZ-MVio3rCtuf3s4Tl31Rkp2suVAg3Q-tX2oU_GQOkXfZvvNU5pvF4k613alcZ-VmleOfG879X2boCMB2KnfK2Z5KZp=w600",
+    "nftName": "Smirc 109",
+    "nftmarket": "Solanart",
+    "cryptoIcon": "https://w7.pngwing.com/pngs/989/154/png-transparent-ethereum-cryptocurrency-blockchain-bitcoin-logo-mining-angle-triangle-logo.png",
+    "crypto": "ethereum",
+    "nftmarketIcon": "https://solanart.io/logo.png",
+    "isLike": false,
+    "likeAmount": 999,
+    "price": 555
+  },
+  {
+    "id": 4,
+    "type": "author",
+    "nftName": "Smircs",
+    "nftCtg": "Smircs",
+    "nftBg": "https://smircs.com/smircs/1.png",
+    "nftThumb": "https://lh3.googleusercontent.com/Temghd6YxpZ-MVio3rCtuf3s4Tl31Rkp2suVAg3Q-tX2oU_GQOkXfZvvNU5pvF4k613alcZ-VmleOfG879X2boCMB2KnfK2Z5KZp=w600",
+    "content": "Smircs is a non generative collection handcrafted by combrisi X flatizy."
+  },
+  {
+    "id": 5,
+    "type": "nft",
+    "buyers": [{ "thumb": "https://pbs.twimg.com/profile_images/651797520658489345/BVYPZWH7_bigger.jpg" }, { "thumb": "https://pbs.twimg.com/profile_images/651797520658489345/BVYPZWH7_bigger.jpg" }],
+    "nftThumb": "https://lh3.googleusercontent.com/Temghd6YxpZ-MVio3rCtuf3s4Tl31Rkp2suVAg3Q-tX2oU_GQOkXfZvvNU5pvF4k613alcZ-VmleOfG879X2boCMB2KnfK2Z5KZp=w600",
+    "nftName": "Smirc 109",
+    "nftmarket": "Solanart",
+    "cryptoIcon": "https://w7.pngwing.com/pngs/989/154/png-transparent-ethereum-cryptocurrency-blockchain-bitcoin-logo-mining-angle-triangle-logo.png",
+    "crypto": "ethereum",
+    "nftmarketIcon": "https://solanart.io/logo.png",
+    "isLike": false,
+    "likeAmount": 999,
+    "price": 555
+  },
+  {
+    "id": 6,
+    "type": "nft",
+    "buyers": [{ "thumb": "https://pbs.twimg.com/profile_images/651797520658489345/BVYPZWH7_bigger.jpg" }, { "thumb": "https://pbs.twimg.com/profile_images/651797520658489345/BVYPZWH7_bigger.jpg" }],
+    "nftThumb": "https://lh3.googleusercontent.com/Temghd6YxpZ-MVio3rCtuf3s4Tl31Rkp2suVAg3Q-tX2oU_GQOkXfZvvNU5pvF4k613alcZ-VmleOfG879X2boCMB2KnfK2Z5KZp=w600",
+    "nftName": "Smirc 109",
+    "nftmarket": "Solanart",
+    "cryptoIcon": "https://w7.pngwing.com/pngs/989/154/png-transparent-ethereum-cryptocurrency-blockchain-bitcoin-logo-mining-angle-triangle-logo.png",
+    "crypto": "ethereum",
+    "nftmarketIcon": "https://solanart.io/logo.png",
+    "isLike": false,
+    "likeAmount": 999,
+    "price": 555
+  }
+]

@@ -1,0 +1,8 @@
+node_modules/*
+src/serviceWorker.ts
+src/__tests__/**
+src/**/*.d.ts
+src/**/*.bak.tsx
+src/utils/appNative.ts
+src/Root.tsx
+deploy/*.ts
